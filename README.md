@@ -21,13 +21,13 @@ Angajament Social: Instrumente de feedback (reacții, distribuiri) și comunicar
 2. Prezentare a specificatiilor software
 a. Specificatii
 
-~Specificatii Functionale~
+Specificatii Functionale
 Sistemul va permite utilizatorului să raporteze conținutul inadecvat sau spam-ul printr-un buton dedicat.
 Platforma trebuie să ofere opțiunea de filtrare a noutăților (Feed) în funcție de preferințe: "Cele mai recente" sau "Top noutăți".
 
-~Specificatii de Sistem~
+Specificatii de Sistem
 Timpul de răspuns al bazei de date nu trebuie să depășească 200ms pentru interogările standard de afișare a profilului.
 Protocoalele de securitate trebuie să asigure criptarea datelor sensibile în tranzit folosind HTTPS/TLS.
 
-~Specificatii de Interfata~
+Specificatii de Interfata
 Elementele vizuale critice (butonul de postare, chat-ul) trebuie să fie accesibile cu o singură atingere pe ecranele tactile ale dispozitivelor mobile.
